@@ -11,6 +11,7 @@ public class FirstSpringBootAppApplication
 	{
 		SpringApplication.run(FirstSpringBootAppApplication.class, args);
 		System.out.println("/ Vasu is Back!");
+		System.out.println("/ok");
 	}
 
 }
